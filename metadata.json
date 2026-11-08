@@ -1,0 +1,8 @@
+{
+  "name": "Remix Biochem \u0026 Biotech Hub",
+  "description": "Independent educational, science-curation, and community platform making life sciences accessible, engaging, and connected to real-world applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
